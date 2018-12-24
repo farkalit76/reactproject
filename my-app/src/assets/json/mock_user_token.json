@@ -1,0 +1,8 @@
+{
+  "accessToken": "4c2147ec-37a6-4087-8fba-96501fa1903a",
+  "customerId": "will@programneo.com",
+  "expiresIn": 930,
+  "refreshToken": "429e9748-ffc7-4c5d-a121-8169bff13052",
+  "scope": "extended openid",
+  "tokenType": "bearer"
+}

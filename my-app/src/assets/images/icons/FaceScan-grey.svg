@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="28px" viewBox="0 0 25 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ORDER-SUMMARY-MILES" transform="translate(-748.000000, -695.000000)">
+            <g id="Group-5" transform="translate(748.000000, 695.000000)">
+                <ellipse id="Oval" stroke="#666666" stroke-width="2" cx="13" cy="14" rx="9" ry="11"></ellipse>
+                <g id="Group-8" transform="translate(9.000000, 10.000000)">
+                    <circle id="Oval-2" fill="#666666" cx="1" cy="2" r="1"></circle>
+                    <circle id="Oval-2-Copy" fill="#666666" cx="8" cy="2" r="1"></circle>
+                    <polyline id="Path-2" stroke="#666666" points="4.51757813 0.805908203 4.51757813 6.74804351 1.61743185 6.74804351"></polyline>
+                </g>
+                <g id="Group-4" transform="translate(0.000000, 22.000000)" fill="#666666">
+                    <rect id="Rectangle-6" x="0" y="0" width="2" height="6"></rect>
+                    <rect id="Rectangle-6" transform="translate(3.000000, 5.000000) rotate(90.000000) translate(-3.000000, -5.000000) " x="2" y="2" width="2" height="6"></rect>
+                </g>
+                <g id="Group-4-Copy" transform="translate(22.000000, 25.000000) scale(-1, 1) translate(-22.000000, -25.000000) translate(19.000000, 22.000000)" fill="#666666">
+                    <rect id="Rectangle-6" x="0" y="0" width="2" height="6"></rect>
+                    <rect id="Rectangle-6" transform="translate(3.000000, 5.000000) rotate(90.000000) translate(-3.000000, -5.000000) " x="2" y="2" width="2" height="6"></rect>
+                </g>
+                <g id="Group-4" transform="translate(3.000000, 3.000000) scale(1, -1) translate(-3.000000, -3.000000) " fill="#666666">
+                    <rect id="Rectangle-6" x="0" y="0" width="2" height="6"></rect>
+                    <rect id="Rectangle-6" transform="translate(3.000000, 5.000000) rotate(90.000000) translate(-3.000000, -5.000000) " x="2" y="2" width="2" height="6"></rect>
+                </g>
+                <g id="Group-4-Copy" transform="translate(22.000000, 3.000000) scale(-1, -1) translate(-22.000000, -3.000000) translate(19.000000, 0.000000)" fill="#666666">
+                    <rect id="Rectangle-6" x="0" y="0" width="2" height="6"></rect>
+                    <rect id="Rectangle-6" transform="translate(3.000000, 5.000000) rotate(90.000000) translate(-3.000000, -5.000000) " x="2" y="2" width="2" height="6"></rect>
+                </g>
+                <path d="M10,19 C10,20.6568542 11.3431458,22 13,22 C14.6568542,22 16,20.6568542 16,19 L10,19 Z" id="Combined-Shape" fill="#666666"></path>
+            </g>
+        </g>
+    </g>
+</svg>

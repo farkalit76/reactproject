@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_tail_EK_tcm277-1950191</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D1D3D4" offset="40.85%"></stop>
+            <stop stop-color="#F1F2F2" offset="79.69%"></stop>
+            <stop stop-color="#D1D3D4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-0.000487535346%" y1="50.0001665%" x2="99.9998375%" y2="50.0001665%" id="linearGradient-2">
+            <stop stop-color="#ED1C24" offset="0%"></stop>
+            <stop stop-color="#DF1C24" offset="4.25%"></stop>
+            <stop stop-color="#CC1C24" offset="11.87%"></stop>
+            <stop stop-color="#C11C24" offset="19.72%"></stop>
+            <stop stop-color="#BD1C24" offset="28.09%"></stop>
+            <stop stop-color="#ED1C24" offset="66.85%"></stop>
+            <stop stop-color="#BC1C24" offset="88.76%"></stop>
+            <stop stop-color="#AB3E3A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="89.2674626%" y1="-5.97707263%" x2="19.3845774%" y2="110.796405%" id="linearGradient-3">
+            <stop stop-color="#006838" offset="0%"></stop>
+            <stop stop-color="#006838" offset="0.93%"></stop>
+            <stop stop-color="#006838" offset="28.09%"></stop>
+            <stop stop-color="#006838" offset="38.15%"></stop>
+            <stop stop-color="#006838" offset="66.85%"></stop>
+            <stop stop-color="#009444" offset="88.76%"></stop>
+            <stop stop-color="#006838" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Anonymous_FlightDetails" transform="translate(-258.000000, -283.000000)" fill-rule="nonzero">
+            <g id="Group-9" transform="translate(30.000000, 252.000000)">
+                <g id="icn_tail_EK_tcm277-1950191" transform="translate(228.000000, 31.000000)">
+                    <path d="M21.1764706,0 C21.1764706,0 18.2254072,0 17.2950679,0 C16.3647285,0 15.9352941,0.632010944 15.9352941,0.632010944 C15.9352941,0.632010944 4.52891403,14.6733242 2.66823529,16.1975376 C1.04782805,17.5247606 0.193642534,17.6394665 0,17.6470588 L15.0904751,17.6470588 L21.1764706,0 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                    <path d="M7.81490482,14.5680289 C7.84762704,14.5054939 11.2388942,9.75797043 11.4621281,9.32516185 C11.6857634,8.89235326 14.1176471,5.29411765 14.1176471,5.29411765 C13.7444531,5.56935428 13.3670434,5.8633103 12.9866224,6.17228297 C8.6980034,9.65696805 4.07854864,15.0606984 1.76470588,17.6470588 L4.09741912,17.6470588 L5.44184086,17.6470588 C6.29041047,16.549815 7.29817471,15.246658 7.66835743,14.7626282 C7.75829336,14.6449635 7.81169282,14.5742002 7.81490482,14.5680289 Z" id="Shape" fill="url(#linearGradient-2)"></path>
+                    <path d="M19.3286929,5.41419231 L21.1764706,0 C20.5916798,0.59162315 20.0087008,1.12933192 19.5646222,1.42329852 L14.6924397,5.05790643 C14.5102587,5.32583833 12.2578582,8.64167494 12.0426632,9.05577014 C11.9496604,9.23493807 11.3085042,10.1561974 10.5882353,11.1764706 C11.4784056,10.3179405 13.2283491,8.83437271 15.2707886,8.11196107 C16.7177683,7.600082 18.2011841,6.44615036 19.3286929,5.41419231 Z" id="Shape" fill="url(#linearGradient-3)"></path>
+                    <path d="M18.2352941,9.41176471 C17.33833,10.1024929 16.0180679,10.9061831 14.1530076,11.5892186 C12.5424605,12.1789288 10.1050536,13.5881196 8.16248792,14.8082307 C7.78339055,15.2847764 6.75135759,16.5672393 5.88235294,17.6470588 L8.61436212,17.6470588 C9.00682246,17.4830817 9.30450846,17.3583782 9.45561289,17.2937995 C10.2448508,16.9565331 14.173566,15.9680143 16.5435413,14.2053618 L18.2352941,9.41176471 Z" id="Shape" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

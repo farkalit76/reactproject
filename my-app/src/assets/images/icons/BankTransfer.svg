@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="16px" viewBox="0 0 44 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ORDER-SUMMARY-MILES" transform="translate(-523.000000, -701.000000)">
+            <g id="Group-3" transform="translate(523.000000, 701.000000)">
+                <text id="$" font-family=".AppleSystemUIFont" font-size="14" font-weight="normal" fill="#666666">
+                    <tspan x="18" y="15">$</tspan>
+                </text>
+                <path d="M12.5,10.5 L16.6622777,10.5" id="Line-3" stroke="#666666" stroke-linecap="square" stroke-dasharray="1,2,1"></path>
+                <path d="M26.5,10.5 L30.6622777,10.5" id="Line-3-Copy" stroke="#666666" stroke-linecap="square" stroke-dasharray="1,2,1"></path>
+                <g id="Group-2" fill="#666666">
+                    <g id="Group" transform="translate(1.000000, 2.000000)">
+                        <rect id="Rectangle-4" x="0" y="11" width="12" height="2" rx="1"></rect>
+                        <rect id="Rectangle" x="2" y="5" width="2" height="8"></rect>
+                        <rect id="Rectangle" x="5" y="0" width="2" height="13"></rect>
+                        <rect id="Rectangle" x="8" y="5" width="2" height="8"></rect>
+                    </g>
+                    <path d="M3.4362915,2.4362915 L10.6642136,2.4362915 L10.6642136,2.4362915 C11.2164983,2.4362915 11.6642136,2.88400675 11.6642136,3.4362915 C11.6642136,3.70150799 11.5588567,3.9558619 11.3713203,4.14339828 L4.14339828,11.3713203 L4.14339828,11.3713203 C3.75287399,11.7618446 3.11970901,11.7618446 2.72918472,11.3713203 C2.54164834,11.183784 2.4362915,10.9294301 2.4362915,10.6642136 L2.4362915,3.4362915 L2.4362915,3.4362915 C2.4362915,2.88400675 2.88400675,2.4362915 3.4362915,2.4362915 Z" id="Rectangle-2" transform="translate(7.050253, 7.050253) rotate(45.000000) translate(-7.050253, -7.050253) "></path>
+                </g>
+                <g id="Group-2-Copy" transform="translate(30.000000, 0.000000)" fill="#666666">
+                    <g id="Group" transform="translate(1.000000, 2.000000)">
+                        <rect id="Rectangle-4" x="0" y="11" width="12" height="2" rx="1"></rect>
+                        <rect id="Rectangle" x="2" y="5" width="2" height="8"></rect>
+                        <rect id="Rectangle" x="5" y="0" width="2" height="13"></rect>
+                        <rect id="Rectangle" x="8" y="5" width="2" height="8"></rect>
+                    </g>
+                    <path d="M3.4362915,2.4362915 L10.6642136,2.4362915 L10.6642136,2.4362915 C11.2164983,2.4362915 11.6642136,2.88400675 11.6642136,3.4362915 C11.6642136,3.70150799 11.5588567,3.9558619 11.3713203,4.14339828 L4.14339828,11.3713203 L4.14339828,11.3713203 C3.75287399,11.7618446 3.11970901,11.7618446 2.72918472,11.3713203 C2.54164834,11.183784 2.4362915,10.9294301 2.4362915,10.6642136 L2.4362915,3.4362915 L2.4362915,3.4362915 C2.4362915,2.88400675 2.88400675,2.4362915 3.4362915,2.4362915 Z" id="Rectangle-2" transform="translate(7.050253, 7.050253) rotate(45.000000) translate(-7.050253, -7.050253) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

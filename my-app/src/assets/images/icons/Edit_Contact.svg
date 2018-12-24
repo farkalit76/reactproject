@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BookChauffeur" transform="translate(-330.000000, -551.000000)" fill="#D3D3D3" fill-rule="nonzero">
+            <g id="Group" transform="translate(-325.000000, -205.000000)">
+                <g id="additional-info" transform="translate(320.000000, 731.000000)">
+                    <path d="M343.843729,27.3735057 L346.736851,30.2807689 L339.413561,37.6399234 L336.522079,34.7326601 L343.843729,27.3735057 Z M348.932171,26.6723404 L347.64195,25.3758008 C347.143324,24.8747331 346.333658,24.8747331 345.833338,25.3758008 L344.597436,26.6177561 L347.490558,29.5250464 L348.932171,28.0763733 C349.318906,27.6877168 349.318906,27.0609699 348.932171,26.6723404 Z M335.008051,38.8190526 C334.9554,39.05717 335.169339,39.2705352 335.406322,39.2126272 L338.630221,38.4271265 L335.73874,35.5198632 L335.008051,38.8190526 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

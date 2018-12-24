@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="39px" viewBox="0 0 22 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>here-pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BookChauffeur" transform="translate(-177.000000, -281.000000)" fill="#4A90E2">
+            <g id="Group" transform="translate(-325.000000, -205.000000)">
+                <path d="M512,507.955157 C506.3935,507.449928 502,502.738043 502,497 C502,490.924868 506.924868,486 513,486 C519.075132,486 524,490.924868 524,497 C524,502.392139 520.120236,506.878111 515,507.818624 L515,525 L512,525 L512,507.955157 Z" id="here-pin"></path>
+            </g>
+        </g>
+    </g>
+</svg>

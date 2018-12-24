@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="17px" viewBox="0 0 20 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Refunds</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Anonymous_FlightDetailsCollapse" transform="translate(-31.000000, -242.000000)" stroke="#666666" stroke-width="1.08">
+            <g id="Group-24" transform="translate(18.000000, -231.000000)">
+                <g id="Group-17" transform="translate(0.000000, 401.000000)">
+                    <g id="Group-41" transform="translate(1.000000, 67.000000)">
+                        <g id="Group-51" transform="translate(0.000000, 6.000000)">
+                            <g id="Refunds" transform="translate(13.000000, 0.000000)">
+                                <path d="M19.9938099,8.64374664 C19.9938099,8.38789771 19.9752188,8.13639097 19.9393139,7.89050363 M19.2058415,5.89949625 C18.2917039,4.44347359 16.6716986,3.47556235 14.8256256,3.47556235 C11.9713163,3.47556235 9.65744135,5.78943727 9.65744135,8.64374664" id="Oval-2" transform="translate(14.825626, 6.059654) rotate(-660.000000) translate(-14.825626, -6.059654) "></path>
+                                <polyline id="Rectangle-7" transform="translate(11.489388, 2.201559) rotate(-345.000000) translate(-11.489388, -2.201559) " points="13.212116 3.92428692 9.76665981 3.92428692 9.76665981 0.47883073 9.76665981 0.47883073"></polyline>
+                                <g id="Group-7" transform="translate(6.965096, 10.405197) rotate(-345.000000) translate(-6.965096, -10.405197) translate(0.965096, 6.405197)">
+                                    <rect id="Rectangle-6" x="0" y="0" width="11.8129927" height="7.87532844" rx="1.44"></rect>
+                                    <path d="M0.0723784092,2.42048688 L8.8806049,2.42048688" id="Path-2"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

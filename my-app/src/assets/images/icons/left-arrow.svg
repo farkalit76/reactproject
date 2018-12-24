@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="22px" viewBox="0 0 30 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>left-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="DESIGN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
+        <g id="Login" transform="translate(-526.000000, -308.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="left-arrow" transform="translate(526.000000, 308.000000)">
+                <path d="M9.78615484,0.317195723 C10.2090825,-0.105731908 10.8749077,-0.105731908 11.2978354,0.317195723 C11.7064749,0.725835258 11.7064749,1.40594861 11.2978354,1.81363561 L3.63274832,9.47872264 L28.9264877,9.47872264 C29.5161098,9.47872264 30,9.94737218 30,10.5369943 C30,11.1266163 29.5161098,11.6105065 28.9264877,11.6105065 L3.63274832,11.6105065 L11.2978354,19.2613055 C11.7064749,19.6842331 11.7064749,20.365299 11.2978354,20.772986 C10.8749077,21.1959136 10.2090825,21.1959136 9.78615484,20.772986 L0.306479651,11.2933108 C-0.102159884,10.8846713 -0.102159884,10.2045579 0.306479651,9.79687091 L9.78615484,0.317195723 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

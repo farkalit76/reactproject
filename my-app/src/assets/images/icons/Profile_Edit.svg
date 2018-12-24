@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 19</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="18" cy="18" r="18"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ProfileHome1" transform="translate(-285.000000, -104.000000)">
+            <g id="Group-19" transform="translate(287.000000, 106.000000)">
+                <g id="Oval-4">
+                    <use fill="#4A4A4A" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#D6D7D9" stroke-width="2" cx="18" cy="18" r="19"></circle>
+                </g>
+                <path d="M19.9491952,12.6701939 L23.2039571,15.940865 L14.9652559,24.2199138 L11.7123393,20.9492427 L19.9491952,12.6701939 Z M25.6736919,11.881383 L24.2221933,10.4227759 C23.6612392,9.85907468 22.7503657,9.85907468 22.1875058,10.4227759 L20.7971153,11.8199756 L24.0518772,15.0906772 L25.6736919,13.4609199 C26.1087694,13.0236813 26.1087694,12.3185912 25.6736919,11.881383 Z M10.0090572,25.5464342 C9.94982474,25.8143162 10.1905059,26.0543521 10.4571126,25.9892056 L14.0839986,25.1055173 L10.831082,21.8348461 L10.0090572,25.5464342 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

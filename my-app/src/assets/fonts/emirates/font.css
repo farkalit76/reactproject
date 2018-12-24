@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'EK03Plain-L01';
+  src: url('/assets/fonts/emirates/EK03Plain-L01.eot');
+  src: url('/assets/fonts/emirates/EK03Plain-L01.woff2') format('woff2'),
+       url('/assets/fonts/emirates/EK03Plain-L01.woff') format('woff'),
+       url('/assets/fonts/emirates/EK03Plain-L01.ttf') format('truetype'),
+       url('/assets/fonts/emirates/EK03Plain-L01.svg#EK03Plain-L01') format('svg'),
+       url('/assets/fonts/emirates/EK03Plain-L01.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EK03Plain-M01';
+  src: url('/assets/fonts/emirates/EK03Plain-M01.eot');
+  src: url('/assets/fonts/emirates/EK03Plain-M01.woff2') format('woff2'),
+       url('/assets/fonts/emirates/EK03Plain-M01.woff') format('woff'),
+       url('/assets/fonts/emirates/EK03Plain-M01.ttf') format('truetype'),
+       url('/assets/fonts/emirates/EK03Plain-M01.svg#EK03Plain-M01') format('svg'),
+       url('/assets/fonts/emirates/EK03Plain-M01.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EK03Plain-B01';
+  src: url('/assets/fonts/emirates/EK03Plain-B01.eot');
+  src: url('/assets/fonts/emirates/EK03Plain-B01.woff2') format('woff2'),
+       url('/assets/fonts/emirates/EK03Plain-B01.woff') format('woff'),
+       url('/assets/fonts/emirates/EK03Plain-B01.ttf') format('truetype'),
+       url('/assets/fonts/emirates/EK03Plain-B01.svg#EK03Plain-B01') format('svg'),
+       url('/assets/fonts/emirates/EK03Plain-B01.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Emirates-Light';
+  src: url('/assets/fonts/emirates/Emirates-Light.eot');
+  src: url('/assets/fonts/emirates/Emirates-Light.woff2') format('woff2'),
+       url('/assets/fonts/emirates/Emirates-Light.woff') format('woff'),
+       url('/assets/fonts/emirates/Emirates-Light.ttf') format('truetype'),
+       url('/assets/fonts/emirates/Emirates-Light.svg#Emirates-Light') format('svg'),
+       url('/assets/fonts/emirates/Emirates-Light.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Emirates-Medium';
+  src: url('/assets/fonts/emirates/Emirates-Medium.eot');
+  src: url('/assets/fonts/emirates/Emirates-Medium.woff2') format('woff2'),
+       url('/assets/fonts/emirates/Emirates-Medium.woff') format('woff'),
+       url('/assets/fonts/emirates/Emirates-Medium.ttf') format('truetype'),
+       url('/assets/fonts/emirates/Emirates-Medium.svg#Emirates-Medium') format('svg'),
+       url('/assets/fonts/emirates/Emirates-Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Emirates-Bold';
+  src: url('/assets/fonts/emirates/Emirates-Bold.eot');
+  src: url('/assets/fonts/emirates/Emirates-Bold.woff2') format('woff2'),
+       url('/assets/fonts/emirates/Emirates-Bold.woff') format('woff'),
+       url('/assets/fonts/emirates/Emirates-Bold.ttf') format('truetype'),
+       url('/assets/fonts/emirates/Emirates-Bold.svg#Emirates-Bold') format('svg'),
+       url('/assets/fonts/emirates/Emirates-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}

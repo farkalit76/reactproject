@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="51px" viewBox="0 0 51 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Group-4" transform="translate(1.000000, 1.000000)" stroke="#F3A536">
+            <g id="Group-3">
+                <path d="M32.5,0.5 C38.5263672,-0.140299479 42.8597005,0.859700521 45.5,3.5 C48.1402995,6.14029948 49.1402995,10.4736328 48.5,16.5" id="Line-4" stroke-width="2" stroke-linejoin="round"></path>
+                <path d="M0.5,0.5 C6.52636719,-0.140299479 10.8597005,0.859700521 13.5,3.5 C16.1402995,6.14029948 17.1402995,10.4736328 16.5,16.5" id="Line-4" stroke-width="2" stroke-linejoin="round" transform="translate(8.593729, 8.406271) scale(-1, 1) translate(-8.593729, -8.406271) "></path>
+                <path d="M32.5,32.5 C38.5263672,31.8597005 42.8597005,32.8597005 45.5,35.5 C48.1402995,38.1402995 49.1402995,42.4736328 48.5,48.5" id="Line-4" stroke-width="2" stroke-linejoin="round" transform="translate(40.593729, 40.406271) scale(1, -1) translate(-40.593729, -40.406271) "></path>
+                <path d="M0.5,32.5 C6.52636719,31.8597005 10.8597005,32.8597005 13.5,35.5 C16.1402995,38.1402995 17.1402995,42.4736328 16.5,48.5" id="Line-4" stroke-width="2" stroke-linejoin="round" transform="translate(8.593729, 40.406271) scale(-1, -1) translate(-8.593729, -40.406271) "></path>
+                <g id="Group-2" transform="translate(12.000000, 16.000000)">
+                    <path d="M1.5,1.5 C1.5,3.5 1.5,4.5 1.5,4.5" id="Line" stroke-width="3"></path>
+                    <path d="M24.5,1.5 C24.5,3.5 24.5,4.5 24.5,4.5" id="Line" stroke-width="3"></path>
+                    <path d="M3.5,19 C6.86665021,21.3333333 10.0333169,22.5 13,22.5 C15.9666831,22.5 18.9666831,21.3333333 22,19" id="Line-2" stroke-width="2" stroke-linejoin="round"></path>
+                    <path d="M13.5,0.5 L13.5,9.5 C13.1666667,11.5 11.8333333,12.3333333 9.5,12" id="Line-3" stroke-width="2" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

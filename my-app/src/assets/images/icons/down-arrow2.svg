@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="10px" viewBox="0 0 19 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>down-arrow (1)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Anonymous_PassengerDetails" transform="translate(-315.000000, -422.000000)" fill="#A0A0A0" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(0.000000, 357.000000)">
+                <g id="down-arrow-(1)" transform="translate(315.000000, 65.000000)">
+                    <path d="M18.1932939,0.252465483 C17.9408284,-2.18908225e-13 17.530572,-2.18908225e-13 17.2781065,0.252465483 L9.23076923,8.31558185 L1.16765286,0.252465483 C0.915187377,-2.18908225e-13 0.504930966,-2.18908225e-13 0.252465483,0.252465483 C-2.49800181e-16,0.504930966 -2.49800181e-16,0.915187377 0.252465483,1.16765286 L8.75739645,9.67258383 C8.88362919,9.79881657 9.04142012,9.86193294 9.21499014,9.86193294 C9.37278107,9.86193294 9.54635108,9.79881657 9.67258383,9.67258383 L18.1775148,1.16765286 C18.4457594,0.915187377 18.4457594,0.504930966 18.1932939,0.252465483 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

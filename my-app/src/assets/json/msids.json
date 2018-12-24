@@ -1,0 +1,39 @@
+{
+
+  "james":{
+    "voiceId": "e76db0fc-1a1f-4f3c-a821-303f7cbd3edd",
+    "faceId": "d139883b-3c61-4ad9-b3be-1ec3625faa88"
+  },
+  "sanjay":{
+    "faceId":"",
+    "voiceId":""
+  },
+  "ruben":{
+    "faceId":"",
+    "voiceId":""
+  },
+  "mukund":{
+    "faceId":"",
+    "voiceId":""
+  },
+  "nidhal":{
+    "faceId":"",
+    "voiceId":""
+  },
+  "frank":{
+    "faceId":"",
+    "voiceId":""
+  },
+  "gemma":{
+    "faceId":"",
+    "voiceId":""
+  },
+  "uxguru":{
+    "faceId":"",
+    "voiceId":""
+  },
+  "EK-Qa": {
+    "voiceId": "feecc589-c633-4dc9-9bdd-d33a41b5bae4",
+    "faceId": "c86fa7a2-8098-4b6f-92ea-6f572b40df0a"
+  }
+}

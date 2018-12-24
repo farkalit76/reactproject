@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="104px" viewBox="0 0 105 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-5.3%" y="-4.6%" width="110.7%" height="111.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.766700634 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Anonymous_PaymentMethods_Flight" transform="translate(-260.000000, -400.000000)">
+            <g id="Group-33" transform="translate(0.000000, 321.000000)">
+                <g id="Group-32">
+                    <g id="Popover" filter="url(#filter-1)">
+                        <g id="Audio" transform="translate(272.500000, 87.000000)">
+                            <g id="Group-5">
+                                <circle id="Background" fill="#3D3D3D" cx="40" cy="40" r="40"></circle>
+                                <g id="credit-card" transform="translate(22.500000, 29.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                                    <path d="M0,8.72727273 L0,21.8181818 C0,23.0225455 0.979636364,24 2.18181818,24 L32.7272727,24 C33.9316364,24 34.9090909,23.0225455 34.9090909,21.8181818 L34.9090909,8.72727273 L0,8.72727273 Z M12,17.4545455 L5.45454545,17.4545455 C4.85236364,17.4545455 4.36363636,16.9658182 4.36363636,16.3636364 C4.36363636,15.7614545 4.85236364,15.2727273 5.45454545,15.2727273 L12,15.2727273 C12.6021818,15.2727273 13.0909091,15.7614545 13.0909091,16.3636364 C13.0909091,16.9658182 12.6021818,17.4545455 12,17.4545455 Z M27.2727273,19.6363636 C26.4305455,19.6363636 25.6712727,19.3090909 25.0909091,18.7876364 C24.5105455,19.3090909 23.7512727,19.6363636 22.9090909,19.6363636 C21.1025455,19.6363636 19.6363636,18.1701818 19.6363636,16.3636364 C19.6363636,14.5570909 21.1025455,13.0909091 22.9090909,13.0909091 C23.7512727,13.0909091 24.5105455,13.4181818 25.0909091,13.9396364 C25.6712727,13.4181818 26.4305455,13.0909091 27.2727273,13.0909091 C29.0792727,13.0909091 30.5454545,14.5570909 30.5454545,16.3636364 C30.5454545,18.1701818 29.0792727,19.6363636 27.2727273,19.6363636 Z" id="Shape"></path>
+                                    <path d="M32.7272727,0 L2.18181818,0 C0.979636364,0 0,0.979636364 0,2.18181818 L0,4.36363636 L34.9090909,4.36363636 L34.9090909,2.18181818 C34.9090909,0.979636364 33.9316364,0 32.7272727,0 Z" id="Shape"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

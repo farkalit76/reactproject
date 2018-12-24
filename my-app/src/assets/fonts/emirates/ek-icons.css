@@ -1,0 +1,94 @@
+@font-face {
+  font-family: 'ek-font-icons';
+  src: url('/assets/fonts/emirates/ek-font-icons.eot');
+  src: url('/assets/fonts/emirates/ek-font-icons.woff2') format('woff2'),
+       url('/assets/fonts/emirates/ek-font-icons.woff') format('woff'),
+       url('/assets/fonts/emirates/ek-font-icons.ttf') format('truetype'),
+       url('/assets/fonts/emirates/ek-font-icons.svg#ek-font-icons') format('svg'),
+       url('/assets/fonts/emirates/ek-font-icons.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.ek{
+  display: inline-block;
+  font: normal normal normal 14px/1 ek-font-icons;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ek-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.ek-2x {
+  font-size: 2em;
+}
+.ek-3x {
+  font-size: 3em;
+}
+.ek-4x {
+  font-size: 4em;
+}
+.ek-5x {
+  font-size: 5em;
+}
+
+.ek-rotate-90 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.ek-rotate-180 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
+  -webkit-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+.ek-rotate-270 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+  -webkit-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+.ek-flip-horizontal {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+  -webkit-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+}
+.ek-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(1, -1);
+  -ms-transform: scale(1, -1);
+  transform: scale(1, -1);
+}
+:root .ek-rotate-90,
+:root .ek-rotate-180,
+:root .ek-rotate-270,
+:root .ek-flip-horizontal,
+:root .ek-flip-vertical {
+  filter: none;
+}
+/**
+<i class="ek ek-guide_dog ek-5x "></i>
+**/
+.ek-icon-guide_dog:before {
+  content: "D";
+}
+.ek-icon-microphone:before {
+  content: "G";
+}
+
+
+
+
+
+
+
+
+

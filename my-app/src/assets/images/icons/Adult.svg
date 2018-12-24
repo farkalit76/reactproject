@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="28px" viewBox="0 0 10 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Anonymous_SelectPassengers_SB" transform="translate(-20.000000, -327.000000)" fill="#9B9B9B" fill-rule="nonzero">
+            <g id="Group-6" transform="translate(0.000000, 250.000000)">
+                <path d="M22.1,105 L22.1,94.5 L20,94.5 L20,86.8 C20,85.26 21.26,84 22.8,84 L27,84 C28.54,84 29.8,85.26 29.8,86.8 L29.8,94.5 L27.7,94.5 L27.7,105 L22.1,105 Z M24.9,82.6 C26.454,82.6 27.7,81.354 27.7,79.8 C27.7,78.246 26.454,77 24.9,77 C23.346,77 22.1,78.246 22.1,79.8 C22.1,81.354 23.346,82.6 24.9,82.6 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

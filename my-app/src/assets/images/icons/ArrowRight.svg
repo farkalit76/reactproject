@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Anonymous_Passenger_Flight" transform="translate(-323.000000, -237.000000)">
+            <g id="Group-3" transform="translate(324.000000, 238.000000)">
+                <circle id="Oval-4" stroke="#BDBDBD" cx="18" cy="18" r="18"></circle>
+                <path d="M9.88005051,18.9057301 L23.0021044,18.9057301 L19.5677609,22.4547135 C19.2243266,22.8096118 19.2243266,23.3789279 19.5677609,23.7338262 C19.7394781,23.9112754 19.9612795,24 20.1902357,24 C20.4191919,24 20.6409933,23.9112754 20.8127104,23.7338262 L25.7424242,18.6395564 C26.0858586,18.284658 26.0858586,17.715342 25.7424242,17.3604436 L20.8127104,12.2661738 C20.4692761,11.9112754 19.9183502,11.9112754 19.5749158,12.2661738 C19.2314815,12.6210721 19.2314815,13.1903882 19.5749158,13.5452865 L23.0092593,17.0942699 L9.88005051,17.0942699 C9.39351852,17.0942699 9,17.5009242 9,18.0036969 C9,18.5064695 9.39351852,18.9057301 9.88005051,18.9057301 Z" id="Shape" fill="#777777" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

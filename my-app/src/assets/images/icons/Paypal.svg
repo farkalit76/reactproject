@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="104px" viewBox="0 0 105 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-5.3%" y="-4.6%" width="110.7%" height="111.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.766700634 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Anonymous_PaymentMethods_Flight" transform="translate(-11.000000, -530.000000)">
+            <g id="Group-33" transform="translate(0.000000, 321.000000)">
+                <g id="Group-32">
+                    <g id="Popover" filter="url(#filter-1)">
+                        <g id="Overview" transform="translate(23.500000, 217.000000)">
+                            <g id="Group-9">
+                                <g id="Icon" fill="#3D3D3D">
+                                    <circle id="Background" cx="40" cy="40" r="40"></circle>
+                                </g>
+                                <g id="paypal" transform="translate(28.000000, 27.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                                    <path d="M22.124516,2.29274886 C20.707516,0.687634703 18.1431324,0 14.8625616,0 L5.34205023,0 C4.67151142,0 4.1016484,0.484383562 3.99527397,1.13972603 L0.0309863014,26.0826301 C-0.0468949772,26.5746119 0.336812785,27.019105 0.838292237,27.019105 L6.71547945,27.019105 L8.19142466,17.7303379 L8.14583562,18.0228676 C8.2503105,17.3675251 8.81827397,16.8831416 9.48881279,16.8831416 L12.2811416,16.8831416 C17.7689224,16.8831416 22.06379,14.6720731 23.3193881,8.2763105 C23.357379,8.08635616 23.4162648,7.72164384 23.4162648,7.72164384 C23.7733196,5.35481279 23.4143059,3.74969863 22.124516,2.29274886 Z" id="Shape"></path>
+                                    <path d="M24.9035479,8.93355251 C23.5396758,15.2305388 19.1878219,18.5623379 12.2810822,18.5623379 L9.77748402,18.5623379 L7.90833333,30.3926941 L11.9695571,30.3926941 C12.556516,30.3926941 13.0560959,29.9690959 13.147274,29.3935342 L13.1947626,29.1427945 L14.1293379,23.2713059 L14.1901233,22.9483836 C14.2813014,22.3728219 14.7808813,21.9492237 15.3659406,21.9492237 L16.1086621,21.9492237 C20.9088082,21.9492237 24.666105,20.0154886 25.7640411,14.4213333 C26.2047352,12.1760731 25.9919863,10.2936256 24.9035479,8.93355251 Z" id="Shape"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

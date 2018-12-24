@@ -1,0 +1,10 @@
+.square{
+    color:red;
+    background-color: grey;
+    height: 30px;
+    width: 30px;
+}
+
+.board-row{
+    background-color: white;
+}

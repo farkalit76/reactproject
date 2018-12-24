@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="80px" viewBox="0 0 81 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Anonymous_ReviewItinerary_Edit" transform="translate(-147.000000, -519.000000)">
+            <g id="Group-9" transform="translate(147.000000, 519.000000)">
+                <circle id="Background" fill="#3D3D3D" cx="40.5" cy="40" r="40"></circle>
+                <g id="bed" transform="translate(24.500000, 28.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <g id="Group-26">
+                        <path d="M8.42105263,12.2808392 C10.7438816,12.2808392 12.6315789,10.3144657 12.6315789,7.89482517 C12.6315789,5.47518462 10.7438816,3.50881119 8.42105263,3.50881119 C6.09822368,3.50881119 4.21052632,5.47518462 4.21052632,7.89482517 C4.21052632,10.3144657 6.09822368,12.2808392 8.42105263,12.2808392 Z" id="Shape"></path>
+                        <path d="M26.181781,3.04099345 L14.5454112,3.04099345 L14.5454112,13.6843636 L2.9091095,13.6843636 L2.9091095,0 L0,0 L0,22.8072727 L2.9091095,22.8072727 L2.9091095,18.2458182 L29.0908905,18.2458182 L29.0908905,22.8072727 L32,22.8072727 L32,9.12290909 C31.9999318,5.76268509 29.3963446,3.04099345 26.181781,3.04099345 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

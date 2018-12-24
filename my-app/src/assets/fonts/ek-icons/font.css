@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'ek-font-icons';
+  src: url('/assets/fonts/ek-icons/ek-font-icons.eot');
+  src: url('/assets/fonts/ek-icons/ek-font-icons.woff2') format('woff2'),
+       url('/assets/fonts/ek-icons/ek-font-icons.woff') format('woff'),
+       url('/assets/fonts/ek-icons/ek-font-icons.ttf') format('truetype'),
+       url('/assets/fonts/ek-icons/ek-font-icons.svg#ek-font-icons') format('svg'),
+       url('/assets/fonts/ek-icons/ek-font-icons.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

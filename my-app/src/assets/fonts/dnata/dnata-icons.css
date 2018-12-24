@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'dnata-font-icons';
+  src: url('/assets/fonts/dnata/dnata-font-icons.eot');
+  src: url('/assets/fonts/dnata/dnata-font-icons.woff2') format('woff2'),
+       url('/assets/fonts/dnata/dnata-font-icons.woff') format('woff'),
+       url('/assets/fonts/dnata/dnata-font-icons.ttf') format('truetype'),
+       url('/assets/fonts/dnata/dnata-font-icons.svg#dnata-font-icons') format('svg'),
+       url('/assets/fonts/dnata/dnata-font-icons.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.dnata{
+  display: inline-block;
+  font: normal normal normal 14px/1 dnata-font-icons;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.dnata-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.dnata-2x {
+  font-size: 2em;
+}
+.dnata-3x {
+  font-size: 3em;
+}
+.dnata-4x {
+  font-size: 4em;
+}
+.dnata-5x {
+  font-size: 5em;
+}
+
+.dnata-rotate-90 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.dnata-rotate-180 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
+  -webkit-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+.dnata-rotate-270 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+  -webkit-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+.dnata-flip-horizontal {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+  -webkit-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+}
+.dnata-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(1, -1);
+  -ms-transform: scale(1, -1);
+  transform: scale(1, -1);
+}
+:root .dnata-rotate-90,
+:root .dnata-rotate-180,
+:root .dnata-rotate-270,
+:root .dnata-flip-horizontal,
+:root .dnata-flip-vertical {
+  filter: none;
+}
+/**
+<i class="dnata dnata-guide_dog dnata-5x "></i>
+**/
+.dnata-icon-guide_dog:before {
+  content: "D";
+}
+.dnata-icon-microphone:before {
+  content: "G";
+}
+
+.dnata-icon-check:before {
+  content: "!";
+}
+
+
+
+
+
+
+
+
+

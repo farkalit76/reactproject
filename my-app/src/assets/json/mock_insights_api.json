@@ -1,0 +1,56 @@
+{
+  "heroImage": "https://neopubstatnonsensitive.blob.core.windows.net/neouistaticrepo/Work_time1360x454.jpg",
+  "heroTitle": "Work time",
+  "heroDescription": "When work is the only thing on your mind",
+  "hotel": null,
+  "odPair": null,
+  "destinations": [
+    {
+      "name": "London",
+      "image": "https://cdn.ek.aero/shared/images/destination/v1/airports/LGW/810x270.jpg"
+    },
+    {
+      "name": "Kuwait",
+      "image": "https://cdn.ek.aero/shared/images/destination/v1/airports/KWI/810x270.jpg"
+    },
+    {
+      "name": "Doha",
+      "image": "https://cdn.ek.aero/shared/images/destination/v1/airports/DOH/810x270.jpg"
+    },
+    {
+      "name": "Mumbai",
+      "image": "https://cdn.ek.aero/shared/images/destination/v1/airports/BOM/810x270.jpg"
+    },
+    {
+      "name": "Chennai",
+      "image": "https://cdn.ek.aero/shared/images/destination/v1/airports/MAA/810x270.jpg"
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Pocket friendly family fun",
+      "description": "Memorable family holidays which are light on the pocket",
+      "image": "https://neopubstatnonsensitive.blob.core.windows.net/neouistaticrepo/Pocket_friendly_family_fun810x270.jpg"
+    },
+    {
+      "title": "Two to tango",
+      "description": "A holiday to remember for you two",
+      "image": "https://neopubstatnonsensitive.blob.core.windows.net/neouistaticrepo/Two_to_tango810x270.jpg"
+    },
+    {
+      "title": "Business time",
+      "description": "When you want to arrive fresh for the work",
+      "image": "https://neopubstatnonsensitive.blob.core.windows.net/neouistaticrepo/Business_time810x270.jpg"
+    },
+    {
+      "title": "League of your own",
+      "description": "That long break that you have been waiting for",
+      "image": "https://neopubstatnonsensitive.blob.core.windows.net/neouistaticrepo/League_of_your_own810x270.jpg"
+    },
+    {
+      "title": "Steal for a group",
+      "description": "Travel with your group at unbelievably low prices",
+      "image": "https://neopubstatnonsensitive.blob.core.windows.net/neouistaticrepo/Steal_for_a_group810x270.jpg"
+    }
+  ]
+}

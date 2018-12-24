@@ -1,0 +1,16 @@
+.a{
+    color: green;
+}
+.styles {
+    color: green;
+    font-size: 15;
+    font-weight: "bold";
+    font-family: verdana;
+    background-color: red;
+}
+
+.styleschild {    
+    font-size: 15;
+    font-weight: "bold";
+    background-color: skyblue;
+}
